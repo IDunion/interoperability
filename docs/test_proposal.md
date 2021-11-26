@@ -1,5 +1,5 @@
 # Proposed approach to testing
-Writer: Eugineu Rusu (Jolocom)
+Writer: Eugeniu Rusu (Jolocom)
 
 In order to ensure the developed / proposed SSI stack can be adopted correctly by the various involved agent developers, it is very important to have the correcty interop testing practices established.
 
