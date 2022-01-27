@@ -1,0 +1,25 @@
+# Interop Meeting Minutes 17.01.2021
+
+### Participants
+Kai Wagner
+Eugeniu Rusu
+Andreas Freitag
+Hakan Yildiz
+
+### Discussion Points
+* eIDAS developments led to reconsideration on the IDunion side that shifted attention to ARIES and INDY work and paused the broader interop work. – particular issue is signature support
+* Test Harness: Creation of tests is at this point limited
+* Potential DIF Alignment 1) WACI-PEX: https://identity.foundation/waci-presentation-exchange/
+* Potential DIF Alignment 2) Secure Wallet WG: https://identity.foundation/working-groups/wallet-security.html
+* Discussion about the Strategic Topics
+
+![](https://i.imgur.com/09zki9O.png)
+
+* Following eIDAS Toolbox discussion will be crucial in the choice of credential and signature types for IDunion.
+
+
+
+### Action Items
+* The Interop Meeting on 27.01.2022 will be postponed (Kai will inform SIDIFO)
+* Contact Fraziska Granc regarding the collection of use-cases (@Hakan)
+* Cleaning up the interop matrix (v3): https://docs.google.com/spreadsheets/d/1R0Y4ec1KVYErkcEgC3Qww7VR4CsCY2Lv2Bt-gfryEdw/edit#gid=1158058564 (will be done on 25th with Eugeniu and Hakan)
